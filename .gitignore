@@ -1,0 +1,21 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# 开发环境
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# 运行时文件
+*.log
+*.tmp
+*.cache
+
+# 依赖目录
+node_modules/
+__pycache__/
