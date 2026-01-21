@@ -1,17 +1,10 @@
-# Sinographic Translator - 英文词根汉字转换器
+# Sinographic Translator
 
-将英文单词和句子基于词根转换为汉字表示的创新工具。
+将英文单词基于词根转换为汉字表示的工具。
 
-## 功能特性
+## 快速开始
 
-- **词根拆解**：将英文单词拆解为前缀、词根、后缀
-- **汉字转换**：为每个词素找到对应的汉字
-- **句子转换**：转换完整英文句子为中英混合形式
-- **智能匹配**：使用多种算法匹配词根
-- **批量处理**：支持批量处理单词和句子
-
-## 安装
-
-### 使用 pip
+1. 克隆仓库：
 ```bash
-pip install sinographic-translator
+git clone https://github.com/gzchengzhi/sinographic-translator.git
+cd sinographic-translator
